@@ -1,1 +1,1 @@
-<a href="https://twitter.com/devmwang?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @devmwang</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/devmwang.svg?style=social&label=Follow%20%40devmwang)](https://twitter.com/devmwang)
