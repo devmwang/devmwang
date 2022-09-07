@@ -5,4 +5,4 @@
 
 ---
 
-Student | Software Developer | Tech & Aviation Enthusiast
+### Student | Software Developer | Tech & Aviation Enthusiast
