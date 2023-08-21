@@ -1,14 +1,14 @@
-<svg width="153.12" height="22" viewBox="0 0 1392 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn: @devmwang">
-  <title>LinkedIn: @devmwang</title>
+<svg width="141.02" height="22" viewBox="0 0 1282 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn: devmwang">
+  <title>LinkedIn: devmwang</title>
   <g>
     <rect fill="#555" width="577" height="200"/>
-    <rect fill="#08C" x="577" width="815" height="200"/>
+    <rect fill="#08C" x="577" width="705" height="200"/>
   </g>
   <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
     <text x="60" y="148" textLength="477" fill="#000" opacity="0.1">LinkedIn</text>
     <text x="50" y="138" textLength="477">LinkedIn</text>
-    <text x="632" y="148" textLength="715" fill="#000" opacity="0.1">@devmwang</text>
-    <text x="622" y="138" textLength="715">@devmwang</text>
+    <text x="632" y="148" textLength="605" fill="#000" opacity="0.1">devmwang</text>
+    <text x="622" y="138" textLength="605">devmwang</text>
   </g>
   
 </svg>
